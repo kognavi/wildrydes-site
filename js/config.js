@@ -5,6 +5,6 @@ window._config = {
         region: 'ap-northeast-1'  // リージョン名
     },
     api: {
-        invokeUrl: '' // API Gateway設定はまだ
+        invokeUrl: 'https://nzguchcvye.execute-api.ap-northeast-1.amazonaws.com/prod'
     }
 };
